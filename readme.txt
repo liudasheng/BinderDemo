@@ -17,4 +17,4 @@ test
 BinderDemo的测试客户端，编译生成BinderDemoClient
 
 
-logcat -v time -s IBinderDemoService BinderDemoService BinderDemoServer BinderDemolient
+logcat -v time -s IBinderDemoService BinderDemoService BinderDemoServer BinderDemoClient
